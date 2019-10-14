@@ -1,7 +1,7 @@
 #####################################################
 #
 # This program uses the custom tag_maker function to 
-# tag open-ended survey responses with the appropriate
+# tag text responses with the appropriate
 # part of speech and chunk tags. 
 # This allows us to pull out specific parts-of-speech
 # by different categories. For instance, adjectives may be 
