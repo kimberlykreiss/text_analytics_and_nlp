@@ -1,7 +1,7 @@
 """
 This program uses a random forest and logistic 
 regression with l1 penalty (lasso) to find which 
-words are most predictive of positive and negative 
+words and phrases are most predictive of positive and negative 
 financial wellbeing. I use bag of words to transform 
 my text data into numeric data. 
 
