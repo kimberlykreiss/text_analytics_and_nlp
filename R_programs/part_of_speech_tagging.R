@@ -54,7 +54,7 @@ B2a<-B2a %>%
 k <- as.list(B2a$B2a)
 
 tp <- clusterMap(cl, tag_maker, k, B2a$index)
-B2a_tagged <- data.frame(matrix(unlist(tp), nrow=10, byrow=T)) %>% 
+B2a_tagged <- data.frame(matrix(unlist(tp), nrow=10445, byrow=T)) %>% 
   rename(pos_tags=X1, chunk_tags=X2, index=X3) 
 
 # merge back in the response and other additional info such as B2
