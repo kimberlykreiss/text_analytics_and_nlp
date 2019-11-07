@@ -5,10 +5,7 @@
 # part of speech and chunk tags. 
 # This allows us to pull out specific parts-of-speech
 # by different categories. For instance, adjectives may be 
-# of interest by different wellbeing category. This 
-# analysis follows Julia Silge's Tidy Text Mining with R 
-# at https://tidytextmining.com, particularly the word clouds 
-# at the end. 
+# of interest by different wellbeing category.
 # 
 # by: Kimberly M. Kreiss
 #####################################################
